@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm (niodoJ piliF).invert</h1>
-<h3 align="center">I am a Cybersecurity Engineer and Ethical Hacker from Canada 🍁</h3>
+<h3 align="center">I am a Cyber Security Engineer and Ethical Hacker from Canada 🍁</h3>
 
 - 🔭 I’m currently working on **HTB CBBH**
 
