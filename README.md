@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Application and API Pentesting**
 
-- 👨‍💻 Projects: **[https://github.com/fjodoin](https://github.com/fjodoin)**
+- 👨‍💻 Projects: **[https://github.com/fjodoin?tab=repositories](https://github.com/fjodoin?tab=repositories)**
 
 - 🐛 Portfolio: **[https://fjodoin.github.io/portfolio/](https://fjodoin.github.io/portfolio/)**
 
