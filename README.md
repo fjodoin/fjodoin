@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Web Application and API Pentesting**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/fjodoin](https://github.com/fjodoin)**
+- 👨‍💻 Projects: **[https://github.com/fjodoin](https://github.com/fjodoin)**
+
+- 🐛 Portfolio: **[https://fjodoin.github.io/portfolio/](https://fjodoin.github.io/portfolio/)**
 
 - 📫 How to reach me **fjodoin@protonmail.com**
 
