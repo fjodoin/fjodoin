@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm (niodoJ piliF).invert</h1>
 <h3 align="center">I am a Cyber Security Engineer and Ethical Hacker from Canada 🍁</h3>
 
-- 🔭 I’m currently working on **HTB CBBH**
+- 🔭 I’m currently working on **Azure stuff**
 
-- 🌱 I’m currently learning **Web Application and API Pentesting**
+- 🌱 I’m currently learning **Cloud Pentesting**
 
 - 👨‍💻 Projects: **[https://github.com/fjodoin?tab=repositories](https://github.com/fjodoin?tab=repositories)**
 
