@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I am Filip</h1>
 <h3 align="center">🛡️Cyber Security Professional🛡️ and 💻 Ethical Hacker 💻 based in Canada 🍁</h3>
 
-- 🔭 I’m currently working on **Microsoft Cloud, IT, and Kubernetes stuff**
+- 🔭 I’m currently working on **Cloud, IT, and Kubernetes**
 
 - 🌱 I’m currently learning **Cloud Pentesting**
 
